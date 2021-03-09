@@ -1,0 +1,175 @@
+*{
+	list-style-type: none;
+	text-decoration: none;
+	font-family: cursive;
+	padding: 0;
+	margin:0;
+}
+
+body
+{
+	background:url('fabio-oyXis2kALVg-unsplash.jpg');
+}
+
+.nav{
+	height:158px;
+	width: 100%;
+	background-color: rgba(255,255,255,0.5);
+
+;
+
+
+
+}
+.menu{float: right; margin-top: 35px;
+		margin-right: 60px;
+}
+
+
+.menu li{
+	display: inline-block;
+	margin-right:40px;
+
+
+
+}
+.menu li a{
+	color: #00102b;;
+text-align: center;
+
+}.menu li {
+	color: #00102b;;
+text-align: center;
+
+}
+.menu li:hover
+{
+	transform: scale(1.2);
+
+
+}
+.logo{
+	display: inline-block;
+	padding-bottom: 10px;
+}
+.section1{ height:700px;
+	/*background:url('back.png');
+	*/
+}
+.logo img{
+	padding-bottom: 10px;
+}
+.sous {
+	display: none;
+	position: absolute;
+}
+
+.menu li a:hover{text-decoration: underline;
+	text-decoration-color:  #01CBB7 ;
+	color:white;
+
+	transition:  0.35s;
+
+
+}
+.ou{
+	margin-left: 250px;
+	display: inline-block;
+}
+
+
+.menu li:hover .sous {
+	font-weight: 100;
+	display: block;
+	height: 100px;
+	width: 380px;
+	padding-right: 20px;
+	text-align: left;
+	font-size: 14px;
+
+
+
+}
+
+span{color:  #01CBB7;
+}
+.max{ height:500px;
+	width: 100%;
+	display: flex;
+	margin-right: 80px;	
+
+}
+.content{ margin-top: 100px;
+	height: 400px;
+	width: 50%;
+	display: inline-block;
+	margin-left:45px;
+	color: white;
+	font-family: 'Nunito', sans-serif;
+
+
+}
+
+
+.content img{border-radius: 20px;
+
+
+}
+.text{font-family: 'Nunito', sans-serif;
+	color: white;
+	width: 45%;
+	margin-left: 40px;
+
+}
+.article{
+	display: flex;
+}
+.text1{
+	color:white;
+	text-align: left;
+	display: flex;
+	width: 50%;
+	margin-right: 20px;
+	font-family: 'Nunito', sans-serif;
+}
+.article2{
+	display: flex;
+	width: 100%;
+	margin-top: 100px;
+}
+.img{
+	width: 50%;
+	margin-top: 100px;
+
+}
+.bonus{
+	display: flex;
+
+}
+.ouais{
+	width: 48%;
+	margin-left: 10px;
+}
+.ouais img{
+	border-radius: 20px;
+}
+.ouais iframe{
+	border-radius: 20px;
+}
+.hight{
+	margin-bottom: 50px;
+	margin-top: 50px
+}
+.hight h2{
+font-family: 'Nunito', sans-serif;
+	color:white;
+}
+
+
+.featbar{
+	background-color:white ;
+	height:90px;
+	width: 100%;
+	text-align: center;
+	padding-top: 20px;
+}

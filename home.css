@@ -1,0 +1,167 @@
+*{
+	list-style-type: none;
+	text-decoration: none;
+	font-family: cursive;
+	padding: 0;
+	margin:0;
+}
+
+body
+{
+	background:url('back.png');
+}
+
+.nav{
+	height:158px;
+	width: 100%;
+	background-color: rgba(255,255,255,0.5);
+
+;
+
+
+
+}
+.menu{float: right; margin-top: 35px;
+		margin-right: 60px;
+}
+
+
+.menu li{
+	display: inline-block;
+	margin-right:40px;
+
+
+
+}
+.menu li a{
+	color: #00102b;;
+text-align: center;
+font-family: 'Akaya Kanadaka', cursive;
+
+}.menu li {
+	color: #00102b;;
+text-align: center;
+
+}
+.menu li:hover
+{
+	transform: scale(1.2);
+
+
+}
+.logo{
+	display: inline-block;
+	padding-bottom: 10px;
+}
+.section1{ height:700px;
+	/*background:url('back.png');
+	*/
+}
+.logo img{
+	padding-bottom: 10px;
+}
+.sous {
+	display: none;
+	position: absolute;
+}
+
+.menu li a:hover{text-decoration: underline;
+	text-decoration-color:  #01CBB7 ;
+	color:white;
+
+	transition:  0.35s;
+
+
+}
+
+
+.menu li:hover .sous {
+	font-weight: 100;
+	display: block;
+	height: 100px;
+	width: 380px;
+	padding-right: 20px;
+	text-align: left;
+	font-size: 14px;
+
+
+
+}
+span{color:  #01CBB7;
+
+}
+.welcome{
+	font-size: 40px;
+	color: white;
+	text-align: center;
+	margin-top: 100px;
+}
+
+.max{ height: 700px;width: 100%;background-color: none;
+	padding-top: 100px; display: flex;
+
+}
+.img{margin-top: 100px; 
+	height: 400px;width: 50%;
+	margin-left: 40px;
+	border-radius: 10%;
+
+}
+.img:hover{transform: scale(1.1);
+	transition: 0.5s;
+}
+.text{margin-top: 100px; 
+	height: 300px;width: 50%;
+	background-color: none;
+	font-size: 20px;
+	color: white;
+	text-align: center;
+	margin-top: 100px;
+	padding-top: 100px;
+
+	
+
+}
+.text:hover{
+	transform: scale(1.1);
+	transition: 0.5s;
+
+}
+.sub img{
+	border-radius: 20px
+}
+.sub {
+	display: flex;
+	background-color: none;
+	height: 500px;
+	width: 1100px;
+	margin-left: 90px;
+}
+.sub:hover {transform: scale(1.1);
+	transition: 0.5s;
+}
+.section2{ height:700px;
+	/*background:url('back.png');
+	*/
+}
+.section3{ height:700px;
+	/*background:url('back.png');
+	*/
+}
+.text a{
+color: white;
+font-family: 'Akaya Kanadaka', cursive;}
+.featbar{
+	background-color:white ;
+	height:90px;
+	width: 100%;
+	text-align: center;
+	padding-top: 20px;
+}
+
+
+.ou{
+	margin-left: 250px;
+	display: inline-block;
+	font-family: 'Akaya Kanadaka', cursive;
+}
