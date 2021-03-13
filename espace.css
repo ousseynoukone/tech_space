@@ -103,6 +103,9 @@ text-align: center;
 	margin-right: 22px;
 	margin-left: 10px;
 	padding-left:15px;
+		transition: all .3s ease-in-out;
+
+	
 }
 .contenu img{
 	border-radius: 20%;

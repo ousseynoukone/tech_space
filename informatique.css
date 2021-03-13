@@ -103,9 +103,12 @@ text-align: center;
 	margin-right: 22px;
 	margin-left: 10px;
 	padding-left:15px;
+		transition: all .3s ease-in-out;
+
 }
 .contenu img{
 	border-radius: 20%;
+
 }
 .contenu .text{
 	text-align: center;
@@ -116,15 +119,15 @@ text-align: center;
 transform: scale(1.1);
 transition: 0.5s;
 }
+
 .catego{
 	text-align: center;
 	font-size: 40px;
 	color: white;
 	margin-bottom: 40px;
 }
-span{color:  #01CBB7;
+span{color:  #01CBB7;}
 
-}
 .featbar{
 	background-color:white ;
 	height:90px;

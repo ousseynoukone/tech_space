@@ -34,7 +34,7 @@ body
 
 }
 .menu li a{
-	color: #00102b;
+	color: #00102b;;
 text-align: center;
 
 }.menu li {
@@ -131,6 +131,8 @@ span{color:  #01CBB7;
 	width: 50%;
 	margin-right: 20px;
 	font-family: 'Nunito', sans-serif;
+		margin-left: 40px;
+
 }
 .article2{
 	display: flex;

@@ -131,6 +131,7 @@ span{color:  #01CBB7;
 	width: 50%;
 	margin-right: 20px;
 	font-family: 'Nunito', sans-serif;
+	margin-left: 40px;
 }
 .article2{
 	display: flex;
@@ -159,6 +160,7 @@ span{color:  #01CBB7;
 .hight{
 	margin-bottom: 50px;
 	margin-top: 50px
+
 }
 .hight h2{
 font-family: 'Nunito', sans-serif;
@@ -172,4 +174,7 @@ font-family: 'Nunito', sans-serif;
 	width: 100%;
 	text-align: center;
 	padding-top: 20px;
+}
+.lopo{
+	text-decoration: none;
 }
