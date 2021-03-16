@@ -176,3 +176,10 @@ font-family: 'Nunito', sans-serif;
 	text-align: center;
 	padding-top: 20px;
 }
+.tech { text-decoration: underline;
+	text-decoration-color:  #01CBB7 ;
+	text-decoration-style: double;
+	font-size: 19px;
+
+
+}
