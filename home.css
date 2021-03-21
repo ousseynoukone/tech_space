@@ -175,7 +175,7 @@ font-family: 'Akaya Kanadaka', cursive;}
 	display: inline-block;
 	font-family: 'Akaya Kanadaka', cursive;
 }
-@animation{
+@keyframes apparition{
 	100%{transform:none;
 	}
 }
