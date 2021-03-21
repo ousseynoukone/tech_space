@@ -96,7 +96,8 @@ span{color:  #01CBB7;
 	text-align: center;
 	margin-top: 100px;
 	transform:translate(-40px,-40px);
-	animation:welcom 0.8s ease-in-out forwards;
+	
+	animation: welcom 0.8s ease-in-out forwards;
 }
 
 .max{ height: 700px;width: 100%;background-color: none;
@@ -186,6 +187,4 @@ font-family: 'Akaya Kanadaka', cursive;}
 	100%{
 		transform: none;
 	}
-
-
 }
